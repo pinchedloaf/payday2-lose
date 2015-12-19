@@ -1,0 +1,16 @@
+{
+  "name" : "lose",
+  "description" : "lose",
+  "author" : "pinchedloaf",
+  "contact" : "pinchedloafs@gmail.com",
+  "version" : "0.2",
+  "keybinds" : [{
+    "keybind_id" : "lose",
+    "name" : "Lose",
+    "description" : "Instant lose a heist.",
+    "script_path" : "losa.lua",
+    "run_in_menu" : false,
+    "run_in_game" : true,
+    "localized" : false
+  }]
+}
